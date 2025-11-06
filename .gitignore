@@ -1,0 +1,22 @@
+# Dépendances
+node_modules/
+
+# Configs sensibles
+.env
+.env.*
+
+# Builds / artefacts
+dist/
+build/
+coverage/
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
